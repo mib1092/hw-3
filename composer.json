@@ -1,0 +1,14 @@
+{
+    "name": "vendor/db_pack",
+    "description": "Homework 3, Geekhub 2016",
+    "authors": [
+        {
+            "name": "Ihor Mazurenko",
+            "email": "mazurenko.ihor@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "minimum-stability": "dev"
+}
